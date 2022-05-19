@@ -99,7 +99,7 @@ h4 {
     text-align:center;
     font-weight: normal;
     padding: 0 0 1.125rem 0;
-    
+        
 }
 
 h5 {
@@ -107,12 +107,12 @@ h5 {
     font-size:1rem;
     margin: 0.25rem;
     letter-spacing: .5rem;
-    color:#333;
+    color:#FFF;
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
-    background-color: #FFF;
+    background-color: #333;
     font-weight: normal;
 }
 
