@@ -65,7 +65,7 @@ h1 {
     text-align:center;
 }
 
-h2 {
+/*h2 {
     text-transform: uppercase;
     font-size:3rem;
     margin: 0;
@@ -74,7 +74,7 @@ h2 {
     text-shadow:.09375rem .09375rem .09375rem #000;
     font-family:'Alfa Slab One', Garamond, serif;
     text-align:center;
-    font-weight: normal;
+    font-weight:normal;
 }
 
 h3 {
@@ -113,10 +113,10 @@ h5 {
     padding: 0.5rem 0.5rem 0.5rem 0.5rem;
     background-color: #FFF;
     font-weight: normal;
-}
+}*/
 
 
-/* Section & Paragraph */
+/* Section & Paragraph
 
 section {
     margin-top: 0.5rem;
@@ -127,10 +127,10 @@ p {
     padding: 0 1rem 0 1rem;
     width: 90%;
     text-align: left;
-}
+} */
 
 
-/* Image & Figure */
+/* Image & Figure 
 
 figure {
     margin-bottom: 2rem;
@@ -145,12 +145,12 @@ img {
     width: 100%;
     margin: 0 auto;
     max-width: 50rem;
-}
+}*/
 
 
-/* Footer */
+/* Footer 
 
 footer {
     padding: 1rem 1rem 1rem 1rem;
     border-top: 2rem solid #333;
-}
+}*/
