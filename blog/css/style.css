@@ -98,11 +98,7 @@ footer {
 }
 
 .main-section {
-    display: flex;
-}
-
-.main-section > section{
-    flex: 1;
+    column-count: 2;
 }
 
 .subsection{
