@@ -92,6 +92,7 @@ figcaption {
 }
 
 nav {
+    
     width:11.25rem;
 }
 
@@ -102,6 +103,10 @@ footer {
 
 section, aside, nav, footer {
   padding: .5rem;
+}
+
+.main-section {
+    column-width: 12.5rem;
 }
 
 /* header and footer */
