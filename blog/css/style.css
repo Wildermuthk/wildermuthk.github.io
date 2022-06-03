@@ -91,12 +91,7 @@ figcaption {
     margin:.375rem 0;
 }
 
-.long-list {
-    margin-top:0;
-}
-
 nav {
-    float: left;
     width:11.25rem;
 }
 
@@ -111,7 +106,7 @@ section, aside, nav, footer {
 
 /* header and footer */
 
-header, footer {
-  border-top: .125rem solid #33658A;
-  border-bottom: .125rem solid #33658A;
+header {
+  border-top: .125rem solid #000;
+  border-bottom: .125rem solid #000;
 }
