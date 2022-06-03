@@ -76,7 +76,7 @@ section {
     width:50%;
 }
 
-figure {
+.article-image {
     width:60%;
     margin:0 10% 0 0;
     float:left;
@@ -106,7 +106,7 @@ section, aside, nav, footer {
 }
 
 .main-section {
-    column-width: 12.5rem;
+    column-width: 25rem;
 }
 
 /* header and footer */
