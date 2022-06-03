@@ -83,9 +83,9 @@ section {
 }
 
 
-figure img {
-    width:100%;
-    max-width:25rem;
+.subsection {
+    width:50%;
+    max-width:15rem;
 }
 
 figcaption {
@@ -103,10 +103,6 @@ footer {
     border-bottom: none;
 }
 
-section, aside, nav, footer {
-  padding: .5rem;
-}
-
 .main-section {
     display: flex;
 }
@@ -116,9 +112,19 @@ section, aside, nav, footer {
 }
 
 .subsection{
-    display: gird;
+    display: grid;
     grid-template-columns: 1fr 1fr 1fr;
     gap: 0.625rem;
+}
+
+.box1{
+    grid-column: 1;
+}
+.box2{
+    grid-column: 2;
+}
+.box3{
+    grid-column: 3;
 }
 
 /* header and footer */
@@ -148,7 +154,6 @@ a:focus, a:hover {
 
 /* Nav Menu */
 nav {
-    padding-left: 0;
     margin-top: 0.25rem;
 }
 
